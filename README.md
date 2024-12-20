@@ -9,3 +9,5 @@ In particular:
 2. The algorithm `BatchGCP` is implemented in `/src/MultivalidAlgorithms/GroupCoverage.py`
 
 The `experiments/` folder contains Jupyter notebooks implementing the experiments in the paper.
+
+You may find the dataset at https://drive.google.com/drive/folders/1_TNoMangVLbvNQP360Ut8pEv_SdFvHnI?usp=share_link
